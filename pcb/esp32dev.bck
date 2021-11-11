@@ -1,11 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Antenna_Shield
+D Antenna with extra pin for shielding
+K antenna
+F ~
+$ENDCMP
+#
 $CMP ESP32-C3
 F https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
 $ENDCMP
 #
-$CMP esp32-c3
-F https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+$CMP PCB_Antenna
+D Antenna with extra pin for shielding
+K antenna
+F ~
 $ENDCMP
 #
 #End Doc Library
