@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name esp32dev)(type Legacy)(uri ${KIPRJMOD}/esp32dev.lib)(options "")(descr ""))
+  (lib (name greenpill)(type Legacy)(uri /home/lth/src/greenpill/pcb/greenpill.lib)(options "")(descr ""))
+  (lib (name stm32dev)(type Legacy)(uri /home/lth/src/stm32dev/pcb/stm32dev.lib)(options "")(descr ""))
 )

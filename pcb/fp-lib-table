@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name esp32dev)(type KiCad)(uri ${KIPRJMOD}/esp32dev.pretty)(options "")(descr ""))
   (lib (name greenpill)(type KiCad)(uri /home/lth/src/greenpill/pcb/greenpill.pretty)(options "")(descr ""))
+  (lib (name stm32dev)(type KiCad)(uri /home/lth/src/stm32dev/pcb/stm32dev.pretty)(options "")(descr ""))
 )
